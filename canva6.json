@@ -42,11 +42,11 @@
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#5d737e",
+            "#4d616c",
             "#5d737e"
         ],
         "BACKGROUND_SECONDARY": [
-            "#4d616c",
+            "#5d737e",
             "#4d616c"
         ],
         "BACKGROUND_SECONDARY_ALT": [
@@ -94,13 +94,18 @@
             "#5d737e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#5d737e",
-            "#5d737e"
+            "#4d616c",
+            "#4d616c"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#5d737e",
             "#5d737e"
         ],
+          "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#f3dbcf",
+            "#f3dbcf"
+        ],
+       
         "SCROLLBAR_THIN_THUMB": [
             "#1a1d23",
             "#1a1d23"
