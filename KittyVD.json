@@ -50,8 +50,8 @@
             "#3e374f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#4d4463",
-            "#4d4463"
+            "#3e374f",
+            "#3e374f"
         ],
         "BACKGROUND_TERTIARY": [
             "#3e374f",
@@ -94,8 +94,8 @@
             "#1F1F2B"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1F1F2B",
-            "#1F1F2B"
+            "#3e374f",
+            "#3e374f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#transparent",
