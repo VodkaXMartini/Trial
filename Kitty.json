@@ -17,8 +17,8 @@
             "#d8c28f"
         ],
         "TEXT_NORMAL": [
-            "#aa9fcf",
-            "#aa9fcf"
+            "#c8c8c8",
+            "#c8c8c8"
         ],
         "TEXT_MUTED": [
             "#C8B68E",
@@ -41,24 +41,24 @@
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#39304d",
-            "#39304d"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#3e374f",
-            "#3e374f"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
             "#4d4463",
             "#4d4463"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#5A5172",
+            "#5A5172"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3e374f",
+            "#3e374f"
         ],
         "BACKGROUND_TERTIARY": [
             "#3e374f",
             "#5d737e"
         ],
         "BACKGROUND_ACCENT": [
-            "#4d4463",
-            "#4d4463"
+            "#69607F",
+            "#69607F"
         ],
         "BACKGROUND_FLOATING": [
             "#4d4463",
@@ -93,8 +93,8 @@
             "#1F1F2B"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1F1F2B",
-            "#1F1F2B"
+            "#3e374f",
+            "#3e374f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#transparent",
@@ -115,6 +115,10 @@
         "SCROLLBAR_AUTO_TRACK": [
             "1a1926",
             "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#d8c28f",
+            "#d8c28f"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
@@ -153,7 +157,7 @@
     "BRAND_NEW_500": "#625682",
     "BRAND_NEW_900": "#7c6ea7",
     "BRAND_NEW": "#a297c3",
-    "STATUS_YELLOW_300": "#443a59",
+    "STATUS_YELLOW_300": "#39304d",
     "STATUS_GREEN_600": "#7c6ea7",
     "STATUS_DANGER": "#625682",
     "STATUS_RED_400": "#a297c3",
