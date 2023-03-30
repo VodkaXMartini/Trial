@@ -48,10 +48,10 @@
             "#503E38"
         ],
         "BACKGROUND_FLOATING": [
-            "#190F0E"
+            "#15100d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#190F0E"
+            "#15100d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#15100d"
@@ -72,7 +72,7 @@
             "#DAC0B3"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#503E38"
+            "#372d2b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent"
