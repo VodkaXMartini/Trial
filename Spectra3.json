@@ -61,9 +61,6 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#1b222a"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#f0b232"
-        ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#20202f"
         ],
@@ -132,7 +129,7 @@
         "GREEN_600": "#EFBE1C",
         "DANGER": "#625682",
         "WHITE_500": "#EFBE1C",
-        "GREEN_360": "#EFBE1C"
+        "GREEN_360": "#6180A0"
     },
     "spec": 2
 }
