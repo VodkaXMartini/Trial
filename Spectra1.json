@@ -41,6 +41,9 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#372E29"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#AF2032"
+        ],
         "CHANNELS_DEFAULT": [
             "#F4D366"
         ],
