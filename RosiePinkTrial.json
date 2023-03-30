@@ -8,7 +8,7 @@
     }],
     "spec": 2,
     "semanticColors": {
-        "CHAT_BACKGROUND":              [ "#503E38", "#ffffff" ],
+        "CHAT_BACKGROUND":              [ "#0A0402", "#ffffff" ],
         "HEADER_PRIMARY":               [ "#e792c5", "#070607" ],
         "HEADER_SECONDARY":             [ "#fffeff", "#604f5b" ],
         "TEXT_NORMAL":                  [ "#fbfbfb", "#382e36" ],
@@ -24,7 +24,7 @@
         "BACKGROUND_ACCENT":            [ "#ffb5f3", "#ad8baa" ],
         "BACKGROUND_FLOATING":          [ "#292228", "#ffffff" ],
         "BACKGROUND_MOBILE_PRIMARY":    [ "#251a24", "#f9f8f9" ],
-        "BACKGROUND_MOBILE_SECONDARY":  [ "#2b232a", "#ffffff" ],
+        "BACKGROUND_MOBILE_SECONDARY":  [ "#0A0402", "#ffffff" ],
         "BACKGROUND_NESTED_FLOATING":   [ "rgba(42, 34, 41, 1)", "#ffffff" ],
         "BACKGROUND_MESSAGE_HOVER":     [ "rgba(255, 255, 255, 0.02)", "#ffffff" ],
         "BACKGROUND_MODIFIER_HOVER":    [ "rgba(255, 255, 255, 0.02)", "rgba(139, 116, 139, 0.08)" ],
