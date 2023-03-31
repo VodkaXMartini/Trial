@@ -33,10 +33,10 @@
             "#26273b"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0a0813"
+            "#090715"
         ],
         "BACKGROUND_SECONDARY": [
-            "#130f20"
+            "#090715"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#130f20"
@@ -46,7 +46,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#1F1F2B"
+            "#090715"
         ],
         "BACKGROUND_FLOATING": [
             "#1F1F2B"
@@ -58,7 +58,7 @@
             "#130f20"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0a0813"
+            "#090715"
         ],
         "BACKGROUND_MENTIONED": [
             "#171626"
@@ -104,9 +104,6 @@
         ],
         "CHANNEL_ICON": [
             "#BFBFBF"
-        ],
-        "CHAT_BACKGROUND": [
-            "#0a0813"
         ]
     },
     "rawColors": {
@@ -121,10 +118,10 @@
         "PRIMARY_300": "#B6B6B6",
         "PRIMARY_360": "#7c6ea7",
         "PRIMARY_400": "#26273b",
-        "PRIMARY_600": "#0a0813",
-        "PRIMARY_630": "#0a0813",
-        "PRIMARY_660": "#443a59",
-        "PRIMARY_700": "#0a0813",
+        "PRIMARY_600": "#090715",
+        "PRIMARY_630": "#090715",
+        "PRIMARY_660": "#090715",
+        "PRIMARY_700": "#090715",
         "PRIMARY_800": "#0a0813",
         "BRAND_260": "#a297c3",
         "BRAND_500": "#625682",
