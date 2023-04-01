@@ -1,10 +1,16 @@
 {
-    "name": "midnight-espresso",
+    "name": "Midnight-Espresso",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
     "authors": [
         {
+            "name": "komette",
+            "id": "555686162153472000"
+        },
+
+        {
             "name": "Vodka Martini",
             "id": "1068030255455015013"
+          
         }
     ],
     "semanticColors": {
@@ -60,7 +66,7 @@
             "#15100d"
         ],
         "BACKGROUND_MENTIONED": [
-            "#9E8376"
+            "#3A2E26"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#DAC0B3"
@@ -99,30 +105,30 @@
             "#9E8376"
         ],
         "KEYBOARD": [
-            "#0a0813"
+            "#110D0A"
         ],
         "CHANNEL_ICON": [
-            "#BFBFBF"
+            "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
             "#110D0A"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#100D0A",
+        "PRIMARY_500": "#B80000",
         "PRIMARY_100": "#EFDFD7",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#9E8376",
         "PRIMARY_360": "#9E8376",
         "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#150F0D",
-        "PRIMARY_660": "#150F0D",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
-        "BRAND_260": "#EFDFD7",
-        "BRAND_500": "#957261",
-        "BRAND_900": "#9E8376",
+        "PRIMARY_600": "#FCCB00",
+        "PRIMARY_630": "#06FB0A",
+        "PRIMARY_660": "#F8085A",
+        "PRIMARY_700": "#5D06FB",
+        "PRIMARY_800": "#0560F9",
+        "BRAND_260": "#00BCD4",
+        "BRAND_500": "#FF6F00",
+        "BRAND_900": "#607D8B",
         "YELLOW_300": "#503E38",
         "GREEN_600": "#EFDFD7",
         "DANGER": "#625682",
