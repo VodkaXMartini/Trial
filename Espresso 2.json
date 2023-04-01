@@ -104,6 +104,9 @@
         "TEXT_LINK": [
             "#9E8376"
         ],
+        "TEXT_DANGER": [
+            "#9E8376"
+        ],
         "KEYBOARD": [
             "#110D0A"
         ],
