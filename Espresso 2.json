@@ -110,6 +110,9 @@
         "CHANNEL_ICON": [
             "#EFDFD7"
         ],
+        "TEXT_DANGER": [
+            "#B80000"
+        ],
         "CHAT_BACKGROUND": [
             "#110D0A"
         ]
