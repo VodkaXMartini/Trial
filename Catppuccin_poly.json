@@ -36,10 +36,6 @@
             "#161320",
             "#161320"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#F2CDCD",
-            "#F2CDCD"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#1E1E2E",
             "#1E1E2E"
@@ -129,7 +125,8 @@
         "PRIMARY_700": "#575268",
         "PRIMARY_800": "#161320",
         "PRIMARY_900": "#1A1826",
-        "BRAND_500": "#161320"
+        "BRAND_500": "#161320",
+        "YELLOW_300": "#F2CDCD"
     },
     "background": {
         "blur": 20,
